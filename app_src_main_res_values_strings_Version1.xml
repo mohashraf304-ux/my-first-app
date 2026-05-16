@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حكايا</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_loading">جاري التحميل...</string>
+    
+    <!-- Authentication -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="guest_login">دخول كضيف</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="sign_in_with_google">تسجيل الدخول عبر جوجل</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    
+    <!-- Home -->
+    <string name="home">الرئيسية</string>
+    <string name="trending_novels">الروايات الشهيرة</string>
+    <string name="categories">الأقسام</string>
+    <string name="search">بحث</string>
+    <string name="my_library">مكتبتي</string>
+    <string name="profile">الملف الشخصي</string>
+    
+    <!-- Categories -->
+    <string name="romance">رومانسية</string>
+    <string name="action">أكشن</string>
+    <string name="horror">رعب</string>
+    <string name="fantasy">خيال</string>
+    <string name="historical">تاريخي</string>
+    <string name="business">رجال أعمال</string>
+    <string name="revenge">انتقام</string>
+    
+    <!-- Reader -->
+    <string name="continue_reading">متابعة القراءة</string>
+    <string name="read_now">اقرأ الآن</string>
+    <string name="start_reading">ابدأ القراءة</string>
+    <string name="mark_as_read">وضع علامة كمقروءة</string>
+    <string name="add_to_favorites">أضف للمفضلة</string>
+    <string name="remove_from_favorites">أزل من المفضلة</string>
+    <string name="chapter">فصل</string>
+    <string name="chapters">فصول</string>
+    
+    <!-- Premium -->
+    <string name="premium">بريميوم</string>
+    <string name="vip">VIP</string>
+    <string name="unlock_chapter">فتح الفصل</string>
+    <string name="coins">عملات</string>
+    <string name="gems">أحجار كريمة</string>
+    <string name="buy_coins">شراء عملات</string>
+    
+    <!-- Rewards -->
+    <string name="daily_reward">المكافآت اليومية</string>
+    <string name="watch_ad">شاهد إعلان</string>
+    <string name="earn_coins">اكسب عملات</string>
+    <string name="login_bonus">مكافأة تسجيل الدخول</string>
+    
+    <!-- Admin -->
+    <string name="admin_panel">لوحة التحكم</string>
+    <string name="manage_novels">إدارة الروايات</string>
+    <string name="manage_users">إدارة المستخدمين</string>
+    <string name="statistics">الإحصائيات</string>
+    <string name="add_novel">إضافة رواية</string>
+    <string name="edit_novel">تعديل الرواية</string>
+    <string name="delete_novel">حذف الرواية</string>
+    
+    <!-- General -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">حدث خطأ</string>
+    <string name="success">نجح</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="close">إغلاق</string>
+    <string name="retry">إعادة محاولة</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - أزرق عميق هادئ -->
+    <color name="primary">#2C3E50</color>
+    <color name="primary_light">#34495E</color>
+    <color name="primary_dark">#1A252F</color>
+
+    <!-- Secondary Colors - بنفسجي فاتح جميل -->
+    <color name="secondary">#8E7CC3</color>
+    <color name="secondary_light">#B8A3D9</color>
+    <color name="secondary_dark">#6C5B9F</color>
+
+    <!-- Tertiary Colors - أخضر فاتح هادئ -->
+    <color name="tertiary">#5DADE2</color>
+    <color name="tertiary_light">#85C1E2</color>
+    <color name="tertiary_dark">#3498DB</color>
+
+    <!-- Neutral Colors -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F0F0F0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#BDBDBD</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="success">#27AE60</color>
+    <color name="error">#E74C3C</color>
+    <color name="warning">#F39C12</color>
+    <color name="info">#3498DB</color>
+
+    <!-- Special Colors -->
+    <color name="gold">#F4D03F</color>
+    <color name="premium">#FFD700</color>
+    <color name="gradient_start">#2C3E50</color>
+    <color name="gradient_end">#8E7CC3</color>
+
+    <!-- Black & White -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
